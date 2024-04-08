@@ -1,0 +1,15 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+:root{
+    --button-color: #fb7413;
+
+    --very-dark: #121417;
+    --white: #ffffff;
+    --light: #959eac;
+    --medium: #7c8798;
+    --dark: #252d37;
+}
